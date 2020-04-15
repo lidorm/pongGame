@@ -1,6 +1,9 @@
 # Pong Game
 
-simple pong game with Processing 3.
-Link to processing website - https://processing.org/overview/
+### simple pong game with Processing3 and p5.js.
+
+Link to processing website - https://processing.org/overview/.
+
+2 versions - Processing3(Java) and p5.js(Java Script). 
 
 
